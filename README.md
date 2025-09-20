@@ -1,20 +1,17 @@
 	
 SUNYE MARKETING INVENVETORY AND ACCOUNT RECEIVABLE SYSTEM
-         -APPLICATION AND DEVELOPER INFO-
 
-
-
-==================================
-::CREATOR/DEVELOPER::
-==================================
+================
+DEVELOPER
+================
 Programmer: Philip V. Naparan 
 E-mail: philipnaparan@yahoo.com
 WEBSITE: http://www.philipcode.com
 
 
-==================================
-::INSTALLATION:: (DO THIS FIRST BEFORE ANYTHING!)
-==================================
+================
+NOTE
+================
 
 NOTE: THIS PROGRAM REQUIRES CRYSTAL REPORT 8.5 in order for the reporting to work.
 
@@ -22,18 +19,18 @@ NOTE: THIS PROGRAM REQUIRES CRYSTAL REPORT 8.5 in order for the reporting to wor
   -ctrlNSDataCombo.ocx 
   -StyleButtonX.ocx
 
+Project Date: 2005
 
-
-==================================
-::DATABASE::
-==================================
+================
+DATABASE
+================
 -Database Name: Db.mdb
 -Database Password: philiprj
 
 
-==================================
-::APPLICATION::
-==================================
+================
+APPLICATION
+================
 [Log-in As Admin]
 -User Name: admin
 -User Password: admin
